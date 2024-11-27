@@ -4,11 +4,11 @@ public class demp9
 {
 public static void main(String[] args)
 {
-	String s1="madama";
+	String s1="deed";
 	String s2="";
-	for(int i =s1.length()-1;i>=0;i--) 
+	for(int i=s1.length()-1;i>=0;i--) 
 	{
-	s1=s1+s2.charAt(i)	;
+	s1=s1+s2.charAt(i);
 	}
 	System.out.println(s2);
 
